@@ -47,8 +47,8 @@ python main.py
 
 ## 📁 Struttura del progetto
 
-progetto/
-
+```text
+school-project-2026-3/
 ├── main.py             # Il gioco principale
 ├── main1.py            # Currently being developed
 ├── .venv/
@@ -57,7 +57,7 @@ progetto/
 │   └── various images
 └── sounds/
     └── various sounds
-
+```
 ---
 
 ## 📦 Librerie utilizzate
