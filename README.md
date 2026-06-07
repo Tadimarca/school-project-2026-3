@@ -37,11 +37,14 @@ python main.py
 
 ---
 
-## 🎮 Controlli (personalizzabili)
+## 🎮 Controlli e regole
 
-- WASD → Movimento
-- SPACE → Azione / salto
-- ESC → Uscita dal gioco
+- WASD → Movimento giocatore A
+- IJKL → Movimento giocatore B
+- Per uscire dal gioco premere la X
+
+- Il gioco prevede che uno dei giocatori insegua l'altro. Se lo prende, vince, altrimenti, vince l'altro se resiste per 30 secondi (time in alto a sinistra)
+- I muri sono generati casualmente e impediscono il movimento
 
 ---
 
@@ -73,6 +76,7 @@ school-project-2026-3/
 
 - Se volete installare le librerie in un ambiente vosto, potete farlo, altrimenti se scaricate anche il  `.venv/` le  liberie sono già lì pronte
 - `main.py` è il gioco principale, `main1.py` è un'altra versione che vorremmo sviluppare in fututo, per aumentare la qualità del gioco, già questionabile al momento. Per ora non funziona bene.
+- Se il giocatore prova ad andare addosso ad un muro e lateralmente allo stesso tempo, rimarra fermò. Questo bug è noto e verrà fixato un giorno (forse).
 
 ---
 
