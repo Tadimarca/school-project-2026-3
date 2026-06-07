@@ -71,7 +71,7 @@ progetto/
 
 ## 💡 Note
 
-- Se volete installare le librerie in un ambiente vosto, potete farlo, altrimenti se scaricate anche il .venv/ le  liberie sono già lì pronte
+- Se volete installare le librerie in un ambiente vosto, potete farlo, altrimenti se scaricate anche il  `.venv/` le  liberie sono già lì pronte
 - `main.py` è il gioco principale, `main1.py` è un'altra versione che vorremmo sviluppare in fututo, per aumentare la qualità del gioco, già questionabile al momento. Per ora non funziona bene.
 
 ---
