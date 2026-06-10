@@ -1,4 +1,4 @@
-# 🎮 Progetto Python con Pygame
+# 🎮 School Project 2026 - Progetto Python
 
 ## 📌 Descrizione
 Questo progetto è un'applicazione sviluppata in Python che utilizza la libreria **Pygame** per creare un ambiente grafico interattivo.  
