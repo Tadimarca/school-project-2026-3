@@ -54,8 +54,6 @@ python main.py
 school-project-2026-3/
 ├── main.py             # Il gioco principale
 ├── main1.py            # Currently being developed
-├── .venv/
-│   └── libraries       # If you choose to download them with the project
 ├── images/
 │   └── various images
 └── sounds/
@@ -74,7 +72,7 @@ school-project-2026-3/
 
 ## 💡 Note
 
-- Se volete installare le librerie in un ambiente vosto, potete farlo, altrimenti se scaricate anche il  `.venv/` le  liberie sono già lì pronte
+- Perché il progetto funzioni è necessario avere un ambiente con **Pygame** installato.
 - `main.py` è il gioco principale, `main1.py` è un'altra versione che vorremmo sviluppare in fututo, per aumentare la qualità del gioco, già questionabile al momento. Per ora non funziona bene.
 - Se il giocatore prova ad andare addosso ad un muro e lateralmente allo stesso tempo, rimarra fermò. Questo bug è noto e verrà fixato un giorno (forse).
 
